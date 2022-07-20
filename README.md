@@ -118,6 +118,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
+1. **Causal Gradient Boosting: Boosted Instrumental Variable Regression**, *ACM EC*, 2022. [paper](https://arxiv.org/abs/2101.06078)  [code](https://github.com/edbakhitov/boostIV)
+
+    Edvard Bakhitov, Amandeep Singh
+
 1. **VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments**, *ICLR*, 2021. [paper](https://arxiv.org/abs/2103.07861)  [code](https://github.com/lushleaf/varying-coefficient-net-with-functional-tr)
 
     Lizhen Nie, Mao Ye, Qiang Liu, Dan Nicolae.
